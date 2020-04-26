@@ -1,0 +1,10 @@
+/* miniprogram/pages/editUserInfo/signature/signature.wxss */
+input {
+  border: 1px #b4b5b6 solid;
+  margin-top: 20rpx;
+  height: 100rpx;
+}
+
+input:hover {
+  box-shadow: 5rpx 4rpx 3rpx rgba(204, 0, 255, 0.3)
+}

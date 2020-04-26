@@ -1,0 +1,2 @@
+<button bindtap="handleBtn">设置个性签名</button>
+<input type="text" value="{{ signature }}" bindinput="handleText" />
